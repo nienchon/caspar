@@ -268,6 +268,7 @@ a.text-very-light-gray-hover:hover {color:#ededed !important;}
 .bg-red{background-color:#E83435; }
 .bg-brown{background-color:#968D7E; }
 .bg-pink{background-color:#F29D8F; }
+.bg-orange{background-color:#fc7c4f; }
 /* ===================================
     Custom
 ====================================== */
@@ -311,7 +312,7 @@ section.half-section {padding:80px 0;}
 .input-group-btn .btn.btn-large {line-height:2px; height:62px; padding:15px 25px!important}
 .input-group-404 input {height: 62px;}
 
-.input-group .required-error {border: 1px solid #ee2323 !important}
+.input-group wiper-full-screenquired-error {border: 1px solid #ee2323 !important}
 .input-group .required-error,.input-group .required-error + .input-group-btn button , .input-group .required-error + .input-group-btn a.btn{border: 1px solid #ee2323 !important}
 
 .input-border-white .input-border-bottom {border-bottom: 1px solid #ffffff; color: #fff; border-top: transparent !important;  border-left: transparent !important;  border-right: transparent !important}

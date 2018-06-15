@@ -3,12 +3,13 @@
   font-family: 'Quicksand', 'Noto Sans', '微軟正黑體';
   padding: 0px;
   margin: 0px; }
-  * nav {
-    padding-left: 50px; }
-    * nav a.logo {
-      height: 10px;
-      width: 150px;
-      padding-bottom: 27px; }
+
+body nav {
+  padding-left: 50px; }
+  body nav a.logo {
+    height: 10px;
+    width: 150px;
+    padding-bottom: 27px; }
 
 .bottomicon {
   margin-left: 0px; }

@@ -1,6 +1,8 @@
 @charset "UTF-8";
 * {
-  font-family: 'Quicksand', 'Noto Sans', '微軟正黑體'; }
+  font-family: 'Quicksand', 'Noto Sans', '微軟正黑體';
+  padding: 0px;
+  margin: 0px; }
   * nav a.logo {
     height: 10px;
     width: 150px;
@@ -19,7 +21,16 @@ section.mission {
   padding-bottom: 170px; }
 
 footer.footer-strip {
-  letter-spacing: 2px; }
+  letter-spacing: 2px;
+  padding: 50px; }
 
-a.at {
-  font-weight: 100px; }
+.footerlogo {
+  padding-top: 6px; }
+  .footerlogo a.logo {
+    margin-bottom: 0px; }
+
+.copyright {
+  padding-top: 8px; }
+
+.social ul {
+  margin: 0px; }

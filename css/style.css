@@ -2340,7 +2340,7 @@ header nav .navbar-nav > li > a:hover, header nav .navbar-nav > li > a:focus, he
 header nav .navbar-nav > li:last-child a { margin-right: 0;}
 .navbar-fixed-bottom, .navbar-fixed-top {z-index: 9999}
 header nav.navbar-default .navbar-nav > li > a:hover, header nav.navbar-default .navbar-nav > li > a:focus, header nav.navbar-default .navbar-nav > li.active > a {border-bottom-color: #232323}
-header nav .navbar-nav.text-normal > li > a {font-weight: 600; font-size: 14px }
+header nav .navbar-nav.text-normal > li > a {font-weight: 600; font-size: 15px }
 .navbar-nav > li { position: inherit;}
 .navbar-nav > li.dropdown > .fas { display: none}
 .navbar-nav > li ul { margin: 0; padding: 0;}

@@ -27,8 +27,7 @@ section.mission {
     padding-top: 3px; }
 
 footer.footer-strip {
-  letter-spacing: 2px;
-  padding: 50px; }
+  letter-spacing: 2px; }
 
 .footerlogo {
   padding-top: 6px; }
@@ -37,6 +36,3 @@ footer.footer-strip {
 
 .copyright {
   padding-top: 11px; }
-
-.social ul {
-  margin: 0px; }

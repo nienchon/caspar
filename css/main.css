@@ -19,8 +19,12 @@ section.wow.fadeIn.half-section {
     border-radius: 10px; }
 
 section.mission {
-  padding-top: 170px;
-  padding-bottom: 170px; }
+  padding-top: 160px;
+  padding-bottom: 160px; }
+  section.mission h5 {
+    padding-top: 8px; }
+  section.mission h6 {
+    padding-top: 3px; }
 
 footer.footer-strip {
   letter-spacing: 2px;

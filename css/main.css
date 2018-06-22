@@ -37,3 +37,11 @@ footer.footer-strip {
 
 .copyright {
   padding-top: 11px; }
+
+section.wow.fadeIn.no-padding {
+  letter-spacing: 5px; }
+  section.wow.fadeIn.no-padding a.btn {
+    border-radius: 10px; }
+
+section#contacticon {
+  margin-bottom: 100px; }
